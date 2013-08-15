@@ -10,7 +10,9 @@ A collection of color schemes based on palettes of vintage computers
 * CGA
 * EGA
 * MSX
+* NES
 * RiscOS (16 colors)
+* TurboGrafx-16/PC Engine
 * ZX Spectrum
 
 ## Installation
