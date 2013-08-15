@@ -5,9 +5,11 @@ A collection of color schemes based on palettes of vintage computers
 * Amiga (16 colors)
 * Amiga (Rebel's palette)
 * Apple II
+* Atari ST
 * Commodore 64
 * CGA
 * EGA
+* MSX
 * RiscOS (16 colors)
 * ZX Spectrum
 
