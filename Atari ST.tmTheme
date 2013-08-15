@@ -5,7 +5,7 @@
     Author:     Jan T. Sott (http://github.com/idleberg)
 
     Color scheme by Jan T. Sott (https://github.com/idleberg/RetroComputers.tmTheme)
-    Base16 template for TextMate by Chris Kempson (https://github.com/chriskempson)
+    template for TextMate by Chris Kempson (https://github.com/chriskempson)
 
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -14,9 +14,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Atari ST Dark</string>
+	<string>Atari ST Dark</string>
 	<key>semanticClass</key>
-	<string>base16.atarist.dark</string>
+	<string>atarist.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

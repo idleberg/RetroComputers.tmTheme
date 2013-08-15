@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Amiga (Rebel) Dark</string>
+	<string>Amiga (Rebel) Dark</string>
 	<key>semanticClass</key>
-	<string>base16.amigarebel.dark</string>
+	<string>amigarebel.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
