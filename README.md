@@ -58,10 +58,5 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 * When using or citing the work, you should not imply [endorsement](http://creativecommons.org/publicdomain/mark/1.0/) by the author or the person who identified the work.
 
-## Donate
-
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][3]
-
 [1]: http://wbond.net/sublime_packages/package_control/
 [2]: http://wbond.net/sublime_packages/package_control/settings/
-[3]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/RetroComputers.tmTheme/&title=Retro&20Computers&20Color%20Schemes&category=software
