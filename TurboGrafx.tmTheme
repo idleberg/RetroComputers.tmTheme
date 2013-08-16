@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
     Name:       TurboGrafx-16
-    Author:     Jan T. Sott (http://github.com/idleberg)
+    Author:     Jan T. Sott
+    URL:		https://github.com/idleberg/RetroComputers.tmTheme
 
-    Color scheme by Jan T. Sott (https://github.com/idleberg/RetroComputers.tmTheme)
-    template for TextMate by Chris Kempson (https://github.com/chriskempson)
+    Base16 template for TextMate by Chris Kempson (https://github.com/chriskempson)
 
 -->
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>TurboGrafx Dark</string>
+	<string>TurboGrafx</string>
+	<key>comment</key>
+	<string>https://github.com/idleberg/RetroComputers.tmTheme</string>
 	<key>semanticClass</key>
-	<string>turbografx.dark</string>
+	<string>turbografx</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

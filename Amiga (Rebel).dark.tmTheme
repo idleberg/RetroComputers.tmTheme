@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+
+    Name:       Amiga - Rebel palette (dark)
+    Author:     Jan T. Sott
+    URL:		https://github.com/idleberg/RetroComputers.tmTheme
+
+    Base16 template for TextMate by Chris Kempson (https://github.com/chriskempson)
+
+-->
 <plist version="1.0">
 <dict>
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Amiga (Rebel) Dark</string>
+	<string>Amiga - Rebel palette (dark)</string>
+	<key>comment</key>
+	<string>https://github.com/idleberg/RetroComputers.tmTheme</string>
 	<key>semanticClass</key>
-	<string>amigarebel.dark</string>
+	<string>amiga-rebel.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
