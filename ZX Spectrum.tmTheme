@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/RetroComputers.tmTheme</string>
 	<key>semanticClass</key>
-	<string>zx-spectrum</string>
+	<string>theme.dark.zx-spectrum</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

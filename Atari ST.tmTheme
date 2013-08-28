@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/RetroComputers.tmTheme</string>
 	<key>semanticClass</key>
-	<string>atari-st</string>
+	<string>theme.dark.atari-st</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
