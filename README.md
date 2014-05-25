@@ -1,4 +1,4 @@
-# Retro Computers for TextMate & Sublime Text
+# Retro Computers for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/RetroComputers.tmTheme.png)](http://travis-ci.org/idleberg/RetroComputers.tmTheme)
 
 A collection of color schemes based on palettes of vintage computers
 
